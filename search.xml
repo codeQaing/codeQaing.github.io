@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>搭建博客</title>
+    <url>/2020/05/24/test/</url>
+    <content><![CDATA[<p>#第一篇文章<br>##二级标题<br>###三等级标题<br>开启阅读全文</p>
+<a id="more"></a>
+<p>-列表1<br>-列表2<br>     a 子列表<br>     b 子列表<br>-列表3</p>
+<hr>
+<hr>
+<p><a href="http://www.mackxin.com/nav.html" target="_blank" rel="noopener">前端小强导航</a><br><img src="/2020/05/24/test/2.jpg" alt="刘进强"><br><em>字体是倾斜的哦</em><br><strong>字体是不是加粗了</strong><br><code>&lt;html&gt;&lt;/html&gt;</code></p>
+<figure class="highlight dts"><table><tr><td class="code"><pre><span class="line"><span class="params">&lt;html&gt;</span></span><br><span class="line"><span class="params">&lt;head&gt;</span></span><br><span class="line"> <span class="params">&lt;title&gt;</span>我是标题哦<span class="params">&lt;/title&gt;</span></span><br><span class="line"><span class="params">&lt;/head&gt;</span></span><br><span class="line"><span class="params">&lt;body&gt;</span></span><br><span class="line">我是多行代码块</span><br><span class="line">使用仓库名开启博客https:<span class="comment">//liujinqiang1998.github.io/</span></span><br><span class="line"><span class="params">&lt;/body&gt;</span></span><br><span class="line"><span class="params">&lt;/html&gt;</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>我的内容是引用的哦</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+</search>
